@@ -1,4 +1,4 @@
-package com.example.a4110;
+package com.example.profilepage;
 
 import androidx.appcompat.app.AppCompatActivity;
 
