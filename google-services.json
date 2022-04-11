@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315195894280",
+    "firebase_url": "https://healthminderregsistrationlogin-default-rtdb.firebaseio.com",
+    "project_id": "healthminderregsistrationlogin",
+    "storage_bucket": "healthminderregsistrationlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315195894280:android:6e3db963f1c701e0317fbd",
+        "android_client_info": {
+          "package_name": "com.example.healthminderregistrationlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315195894280-aisuqgrenholevf1dq7b3tbgt83vcltt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA9nUEQU5ypfZUOZzytAGXyLwaQz_6znY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315195894280-aisuqgrenholevf1dq7b3tbgt83vcltt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
