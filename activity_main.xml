@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#050505"
     tools:context=".splash.view.MainActivity">
 
     <androidx.fragment.app.FragmentContainerView
@@ -11,6 +12,7 @@
         android:name="androidx.navigation.fragment.NavHostFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#050505"
         app:defaultNavHost="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -20,6 +22,6 @@
 
     <include
         android:id="@+id/connectionLostMain"
-        android:visibility="gone"
-        layout="@layout/connection_lost" />
+        layout="@layout/connection_lost"
+        android:visibility="gone" />
 </androidx.constraintlayout.widget.ConstraintLayout>
